@@ -1,5 +1,4 @@
 import Main from "./Main";
-import GeocoderMap from "./Yandexmap";
 
 function App() {
   return (
